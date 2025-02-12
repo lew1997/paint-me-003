@@ -14,7 +14,7 @@
     function preload() {
       // Load the image
       img = loadImage(
-        "https://raw.githubusercontent.com/lew1997/Webflow-paint-me-/653cdac05e24a7852088d0f7c2e59a4644d911da/me%205.png"
+        "https://github.com/lew1997/paint-me-003/blob/c2dc9328f978f997d3fa6b9811ea02d74de20af0/me%206.png"
       );
     }
 
